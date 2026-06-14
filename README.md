@@ -4,7 +4,7 @@
 
 ### 🎓 B.Tech Student | 🤖 Aspiring AI Engineer | 💻 Full-Stack Developer
 
-<img src="YOUR_GIF_LINK_HERE" width="700"/>
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="700"/>
 
 *"Building projects, learning AI, and growing one commit at a time."* 🚀
 
@@ -20,7 +20,7 @@
 * 🌱 Currently learning **LLMs, RAG systems, Agentic AI, and modern AI tools**.
 * 🔭 Working on projects like **Alpha-Cure** and **Smart Irrigation Systems**.
 * 🎯 Goal: **Secure great internships, excel in placements, and pursue higher studies in AI**.
-* 📫 Reach me at: [your-email@example.com](mailto:your-email@example.com)
+* 📫 Reach me at: **[gundiracheljyothi@gmail.com](mailto:gundiracheljyothi@gmail.com)**
 
 ---
 
@@ -31,7 +31,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge\&logo=c\&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
 
 ### Frontend
 
@@ -54,7 +54,7 @@
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![VS\_Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
 
 ---
@@ -80,14 +80,6 @@ An IoT-based project that automates irrigation using soil moisture sensors to op
 
 ---
 
-## 📊 GitHub Stats
-
-![Rachel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Racheljyothigundi\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Racheljyothigundi\&layout=compact\&theme=tokyonight)
-
----
-
 ## ⚡ Fun Fact
 
 > I love turning ideas into real projects and believe that **consistency beats talent when learning new technologies**.
@@ -95,5 +87,7 @@ An IoT-based project that automates irrigation using soil moisture sensors to op
 <div align="center">
 
 ### Thanks for visiting my profile! 😊
+
+⭐ If you like my projects, consider giving them a star!
 
 </div>
